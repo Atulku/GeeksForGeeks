@@ -73,6 +73,7 @@ public class UnionIntersectionInSortedArray {
 			printUnion(a, b, m, n);
 			System.out.println();
 			printIntersection(a, b, m, n);
+			System.out.println();
 		}
 	}
 }
